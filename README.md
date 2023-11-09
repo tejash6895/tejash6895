@@ -1,4 +1,6 @@
-# Hey there! Tejas Here👋
+<img src="https://github.com/tejash6895/tejash6895/blob/main/tejas.gif" alt="👋 Hi there! I'm Tejash" />
+
+
 
 I'm a seasoned QA Engineer with a passion for ensuring top-notch software quality. My toolbox is filled with skills and expertise that make me a valuable asset to any software development team.
 
