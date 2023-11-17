@@ -1,4 +1,5 @@
-<img src="https://github.com/tejash6895/tejash6895/blob/main/tejas.gif" alt="👋 Hi there! I'm Tejash" />
+<img src="https://github.com/tejash6895/tejash6895/blob/main/tej.gif" alt="👋 Hi there! I'm Tejash" width="1000" height="150" />
+
 
 
 
